@@ -6,10 +6,11 @@ Java version of Othello Board Game
 Java version 8  
 Slick 2-D  
 LWJGL  
+Eclipse
 
 ### Operation
 
-When you run the game there will be two prompts for the player names. 
+To run the game download the Othello.zip, import it into your eclipse, and press run on the top of the screen. When you run the game there will be two prompts for the player names.
 Type your name and then press the return key.
 The rest of the game uses the mouse.
 Click the space you want to put your piece in.
